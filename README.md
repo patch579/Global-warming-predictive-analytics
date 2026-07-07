@@ -51,4 +51,4 @@ This repository contains an end-to-end Data Science and Data Engineering project
 ## Author
 
 * **Patricio Limon** - *Data Analyst & Researcher*
-* [LinkedIn Profile](https://linkedin.com) | (mailto:patch579@gmail.com.com)
+* [LinkedIn Profile](www.linkedin.com/in/patricio-limón) | (mailto:patch579@gmail.com.com)
