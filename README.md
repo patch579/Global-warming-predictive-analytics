@@ -1,4 +1,4 @@
-# 🌍 Predictive Modeling of Global Warming (via Cumulative GHG Emissions)
+# Predictive Modeling of Global Warming (via Cumulative GHG Emissions)
 
 ![Python Version](https://shields.io)
 ![SQL](https://shields.io)
@@ -9,7 +9,7 @@ This repository contains an end-to-end Data Science and Data Engineering project
 
 ---
 
-## 🚀 Key Analytical Findings
+## Key Analytical Findings
 
 * **Model Performance (R² Score):** **90.17%** of the historical global temperature variation is directly explained by cumulative GHG forcing.
 * **Predictive Precision (RMSE):** A remarkably low error of just **0.1065 °C** over unseen validation testing data.
@@ -17,7 +17,7 @@ This repository contains an end-to-end Data Science and Data Engineering project
 
 ---
 
-## 🛠️ Project Architecture & Workflow
+## Project Architecture & Workflow
 
 1. **Data Ingestion & Engineering (PostgreSQL 16):** Normalized and loaded multi-century raw climate records. Designed a custom SQL Database View (`global_climate_clean`) using an inner join on the spatial code `'OWID_WRL'` to collapse duplicates into a strict time-series vector (\(rows\_per\_year = 1\)).
 2. **Exploratory Data Analysis (Pandas & Seaborn):** Retrieved relational views via *SQLAlchemy*. Statistical exploration unmasked the non-linear, accelerating curvature of global warming since the 1950s.
@@ -27,10 +27,10 @@ This repository contains an end-to-end Data Science and Data Engineering project
 
 ---
 
-## 📊 Executive Dashboard Preview
+## Executive Dashboard Preview
 
 *(Uncomment and fix the relative path once you save your dashboard screenshots inside the folder)*
-![Executive Dark-Mode Dashboard](./historical_trend.png)
+![Executive Dark-Mode Dashboard](./prediction_2060.png)
 
 > 💡 **Methodological Note:** The physical area under the predicted curve maps the cumulative debt of global pollution. Every year of corporate or political inaction expands this thermal volume exponentially.
 
