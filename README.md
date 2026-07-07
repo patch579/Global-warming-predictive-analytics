@@ -25,7 +25,7 @@ This repository contains an end-to-end Data Science and Data Engineering project
 ## Executive Dashboard Preview
 
 *(Uncomment and fix the relative path once you save your dashboard screenshots inside the folder)*
-![Executive Dark-Mode Dashboard](./prediction_2060.png)
+![Executive Dark-Mode Dashboard](./ClimateChange.png)
 
 > 💡 **Methodological Note:** The physical area under the predicted curve maps the cumulative debt of global pollution. Every year of corporate or political inaction expands this thermal volume exponentially.
 
@@ -51,4 +51,4 @@ This repository contains an end-to-end Data Science and Data Engineering project
 ## Author
 
 * **Patricio Limon** - *Data Analyst & Researcher*
-* [LinkedIn Profile](www.linkedin.com/in/patricio-limón) | (mailto:patch579@gmail.com.com)
+* (www.linkedin.com/in/patricio-limón) | (mailto:patch579@gmail.com.com)
