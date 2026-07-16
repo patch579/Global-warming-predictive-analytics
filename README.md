@@ -1,4 +1,4 @@
-# Predictive Modeling of Global Warming (via Cumulative GHG Emissions)
+# Global Warming Forecasting
 
 This repository contains an end-to-end Data Science and Data Engineering project linking historical anthropogenic Greenhouse Gas (GHG) emissions with global surface temperature anomalies. By establishing a robust data pipeline, we model the planet's climate trajectory under a non-linear paradigm, forecasting a critical thermal threshold heading into the year 2060.
 
